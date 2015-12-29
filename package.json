@@ -1,0 +1,14 @@
+{
+  "name": "jsonresume-theme-hoback",
+  "version": "0.0.1",
+  "description": "A pretty theme for JSON Resume",
+  "author": "Brett Hardin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhardin/jsonresume-theme-hoback"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  }
+}
